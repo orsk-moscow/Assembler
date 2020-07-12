@@ -3,16 +3,16 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: umoff <umoff@student.42.fr>                +#+  +:+       +#+         #
+#    By: u18188899 <u18188899@student.42.fr>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/05/25 13:32:14 by umoff             #+#    #+#              #
-#    Updated: 2020/07/02 14:02:33 by umoff            ###   ########.fr        #
+#    Updated: 2020/07/12 15:57:36 by u18188899        ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 SHELL = /bin/sh
 
-NAME_FILE = ../asm
+NAME_FILE = ../../asm
 
 LIB_PRINTF = ../ft_printf/libftprintf.a
 LIB_PRINTF_NAME = -lftprintf
